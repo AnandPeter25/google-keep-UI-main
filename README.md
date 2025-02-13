@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# new updated 
+3 dot button alignment
+inner box remove the 3dot, pin button
+added the remove button for image notes 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
